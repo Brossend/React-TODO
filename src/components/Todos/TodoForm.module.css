@@ -1,0 +1,21 @@
+.form {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.inbtn {
+  margin-right: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  font-size: 15px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: rgb(53, 136, 219);
+}
+
+.button:hover {
+  background-color: rgb(59, 157, 255);
+}
